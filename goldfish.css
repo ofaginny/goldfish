@@ -1,0 +1,17 @@
+#boxy{
+	height:80px;
+	width:150px;
+	background-color:gray;
+	position:absolute;
+	padding:10px;
+	z-index: 100px;
+}
+
+#formz{
+	color: white;;
+}
+
+#submit{
+	position:relative;
+	left:90px;
+}
